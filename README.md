@@ -26,7 +26,9 @@ For consumer to read from the time of topic creation- `read --from-beginning`
 
 Team:
 [Karuna](https://github.com/karunakc)
+
 [Harshit](https://github.com/Harshit-crypto)
+
 [Lenver](https://github.com/lenverpinto)
 
 
