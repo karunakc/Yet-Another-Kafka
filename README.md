@@ -25,6 +25,7 @@ For consumer to read from the time of subscribing to the broker- `read`
 For consumer to read from the time of topic creation- `read --from-beginning`
 
 Team:
+
 [Karuna](https://github.com/karunakc)
 
 [Harshit](https://github.com/Harshit-crypto)
